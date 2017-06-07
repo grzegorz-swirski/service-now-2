@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Add Portal User">673b9b88db533200d10ff11fbf961967</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 11:27:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fcdb9f88db533200d10ff11fbf9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Add Portal User Record Producer</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>sc_cat_item_category_fcdb9f88db533200d10ff11fbf9619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 11:27:11</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
