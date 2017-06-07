@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e1820cdcdb933200d10ff11fbf9619a4" sys_domain="global" table="x_123228_cluster_access_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-07 14:16:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29820cdcdb933200d10ff11fbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123228_cluster_access_request" name="x_123228_cluster_access_request" sys_domain="global" view="Default view">e1820cdcdb933200d10ff11fbf9619a4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_123228_cluster_access_request" sys_domain="global" view="Default view">69820cdcdb933200d10ff11fbf9619aa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-07 14:16:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-07 14:16:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed820cdcdb933200d10ff11fbf9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123228_cluster_access_request" name="x_123228_cluster_access_request" sys_domain="global" view="Default view">e1820cdcdb933200d10ff11fbf9619a4</sys_ui_form>
+            <sys_ui_section caption="Scheduling" display_value="Scheduling" name="x_123228_cluster_access_request" sys_domain="global" view="Default view">a9820cdcdb933200d10ff11fbf9619a7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-07 14:16:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_123228_cluster_access_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-07 14:16:15</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1820cdcdb933200d10ff11fbf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_123228_cluster_access_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e1820cdcdb933200d10ff11fbf9619a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-07 14:16:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

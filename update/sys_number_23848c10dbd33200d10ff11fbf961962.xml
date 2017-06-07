@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_123228_portal_delete_portal_user_task">x_123228_portal_delete_portal_user_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DELTASK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 14:25:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>23848c10dbd33200d10ff11fbf961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DELTASK</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>sys_number_23848c10dbd33200d10ff11fbf961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 14:25:08</sys_updated_on>
+    </sys_number>
+</record_update>
