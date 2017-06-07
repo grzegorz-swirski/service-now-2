@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_123228_portal_add_portal_user_request</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>The registration of the new user completed.</p>
+<p>User data:</p>
+<p>First Name: ${first_name}</p>
+<p>Last Name: ${last_name}</p>
+<p>Email: ${email}</p>
+<p>Role: ${role}</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>User registration completed</name>
+        <sms_alternate/>
+        <subject>User registration completed</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 12:29:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>74192380db933200d10ff11fbf961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User registration completed</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>sysevent_email_template_74192380db933200d10ff11fbf961988</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 12:29:12</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
