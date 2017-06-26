@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 11:15:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6629d348db533200d10ff11fbf96197a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_123228_portal_add_portal_user_task.x_123228_portal.add_portal_user_task_user</sys_name>
