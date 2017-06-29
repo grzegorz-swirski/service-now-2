@@ -2,11 +2,11 @@
 <record_update table="sys_wizard_answer">
     <sys_wizard_answer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <answer>Change Portal User Role Task</answer>
+        <answer>Delete Portal User Task</answer>
         <button_label/>
         <dependent_value/>
         <element/>
-        <name>Change Portal User Role Task</name>
+        <name>Delete Portal User Task</name>
         <next_question/>
         <order>100</order>
         <payload_name/>
@@ -14,21 +14,21 @@
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-06-07 15:01:07</sys_created_on>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-06-28 12:39:42</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e2cc4c54dbd33200d10ff11fbf96193a</sys_id>
+        <sys_id>73c53ff2db6b32002a98d740cf961939</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Change Portal User Role Task</sys_name>
+        <sys_name>Delete Portal User Task</sys_name>
         <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
-        <sys_update_name>sys_wizard_answer_e2cc4c54dbd33200d10ff11fbf96193a</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-07 15:01:07</sys_updated_on>
+        <sys_update_name>sys_wizard_answer_73c53ff2db6b32002a98d740cf961939</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-28 12:39:42</sys_updated_on>
         <table/>
-        <target_url>x_123228_portal_change_portal_user_role_task.do</target_url>
+        <target_url>x_123228_portal_delete_portal_user_task.do</target_url>
         <type>1</type>
     </sys_wizard_answer>
 </record_update>
