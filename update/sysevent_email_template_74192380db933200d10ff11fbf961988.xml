@@ -5,11 +5,14 @@
         <email_layout/>
         <message/>
         <message_html><![CDATA[<p>The registration of the new user completed.</p>
+<p>&nbsp;</p>
 <p>User data:</p>
 <p>First Name: ${first_name}</p>
 <p>Last Name: ${last_name}</p>
 <p>Email: ${email}</p>
-<p>Role: ${role}</p>]]></message_html>
+<p>Role: ${role}</p>
+<p>&nbsp;</p>
+<p>Activation link: <a href="http://10.91.84.16:8080/login/${sys_id}">http://10.91.84.16:8080/login/${sys_id}</a></p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>User registration completed</name>
@@ -20,7 +23,7 @@
         <sys_created_on>2017-06-07 12:29:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>74192380db933200d10ff11fbf961988</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>User registration completed</sys_name>
         <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
         <sys_policy/>
@@ -28,7 +31,7 @@
         <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
         <sys_update_name>sysevent_email_template_74192380db933200d10ff11fbf961988</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-07 12:29:12</sys_updated_on>
+        <sys_updated_on>2017-06-29 14:11:57</sys_updated_on>
         <sys_version>2</sys_version>
     </sysevent_email_template>
 </record_update>
