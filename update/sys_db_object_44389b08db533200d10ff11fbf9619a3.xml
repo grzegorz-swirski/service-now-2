@@ -17,8 +17,10 @@
         <number_ref display_value="ADD">4da89f08db533200d10ff11fbf9619ac</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Request" name="sc_request">70e71f259462320092c0d40a7bef4601</super_class>
+        <super_class display_value="Request" name="sc_request">cb62af67f5213200a21cc3267c0bd5cb</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 11:13:13</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
