@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>firstName</name>
+        <rest_message_function display_value="POST">7d7f52be133b3a0063deb3776144b090</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2017-07-10 16:51:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>67826efe133b3a0063deb3776144b042</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>firstName</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_67826efe133b3a0063deb3776144b042</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2017-07-12 12:05:08</sys_updated_on>
+        <type>string</type>
+        <value>Bob</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

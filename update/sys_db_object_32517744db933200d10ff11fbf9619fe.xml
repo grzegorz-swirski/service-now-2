@@ -17,10 +17,8 @@
         <number_ref display_value="DEL">1da17384db933200d10ff11fbf9619f4</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Request" name="sc_request">cb62af67f5213200a21cc3267c0bd5cb</super_class>
-        <sys_class_code/>
+        <super_class display_value="Request" name="sc_request">f193c825db63320024757d8bbf96196f</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 13:02:30</sys_created_on>
         <sys_customer_update>false</sys_customer_update>

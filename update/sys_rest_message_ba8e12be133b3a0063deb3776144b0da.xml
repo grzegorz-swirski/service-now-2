@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Sending user information to API.</description>
+        <name>addNewUser</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>http://10.91.84.16:8080/api/v1/tickets/add_user</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2017-07-10 16:38:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ba8e12be133b3a0063deb3776144b0da</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>addNewUser</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>sys_rest_message_ba8e12be133b3a0063deb3776144b0da</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2017-07-11 12:48:11</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
