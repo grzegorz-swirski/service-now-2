@@ -32,12 +32,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-13 09:52:13</sys_created_on>
         <sys_id>285f98f7db3b3200d10ff11fbf9619a5</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-13 09:53:15</sys_updated_on>
+        <sys_updated_on>2017-07-17 13:33:51</sys_updated_on>
         <table>x_123228_portal_add_portal_user_request</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Add Portal User Workflow">0e8f930cdb533200d10ff11fbf96199a</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
