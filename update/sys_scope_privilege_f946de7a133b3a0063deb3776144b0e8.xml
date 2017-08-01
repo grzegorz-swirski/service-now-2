@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-07-10 15:58:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f946de7a133b3a0063deb3776144b0e8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ScriptableRESTMessageClient.getRequestBody</sys_name>

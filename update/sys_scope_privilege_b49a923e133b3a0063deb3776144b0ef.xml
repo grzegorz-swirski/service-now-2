@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-07-10 16:16:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b49a923e133b3a0063deb3776144b0ef</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ScriptableRESTMessageClient.setHttpMethod</sys_name>

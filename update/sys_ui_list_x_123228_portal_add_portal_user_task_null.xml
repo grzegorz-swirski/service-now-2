@@ -4,182 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:40:58</sys_created_on>
-            <sys_id>367f88eddb67320024757d8bbf9619ed</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>283231f1db50074024757d8bbf9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:40:58</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>number</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>0</position>
-            <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-25 23:16:31</sys_created_on>
-            <sys_id>b2ca2e0adb633200d10ff11fbf961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-25 23:16:31</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
+            <element>active</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:40:58</sys_created_on>
-            <sys_id>b67f88eddb67320024757d8bbf9619ed</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>a83231f1db50074024757d8bbf9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:40:58</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>1</position>
-            <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-25 23:16:31</sys_created_on>
-            <sys_id>36ca2e0adb633200d10ff11fbf961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-25 23:16:31</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>state</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
+            <element>activity_due</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-25 23:16:31</sys_created_on>
-            <sys_id>b6ca2e0adb633200d10ff11fbf961904</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>2c3231f1db50074024757d8bbf9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-25 23:16:31</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>state</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:40:58</sys_created_on>
-            <sys_id>3a7f88eddb67320024757d8bbf9619ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:40:58</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>assigned_to</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
+            <element>additional_assignee_list</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-25 23:16:31</sys_created_on>
-            <sys_id>3aca2e0adb633200d10ff11fbf961904</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>ac3231f1db50074024757d8bbf9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-25 23:16:31</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>203231f1db50074024757d8bbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval_history</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>a03231f1db50074024757d8bbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval_set</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>243231f1db50074024757d8bbf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>3</position>
+            <position>7</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:40:58</sys_created_on>
-            <sys_id>ba7f88eddb67320024757d8bbf9619ed</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>a43231f1db50074024757d8bbf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:40:58</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
+            <element>assignment_group</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>4</position>
+            <position>8</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:40:58</sys_created_on>
-            <sys_id>3e7f88eddb67320024757d8bbf9619ed</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>283231f1db50074024757d8bbf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:40:58</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
+            <element>business_duration</element>
+            <list_id display_value="x_123228_portal_add_portal_user_task" element="NULL" name="x_123228_portal_add_portal_user_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a03231f1db50074024757d8bbf9619de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>4</position>
+            <position>9</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-25 23:16:31</sys_created_on>
-            <sys_id>baca2e0adb633200d10ff11fbf961904</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_id>a83231f1db50074024757d8bbf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-25 23:16:31</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_class_name</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-25 23:16:31</sys_created_on>
-            <sys_id>3eca2e0adb633200d10ff11fbf961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-25 23:16:31</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_class_name</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b27f88eddb67320024757d8bbf9619ed</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:40:58</sys_created_on>
-            <sys_id>be7f88eddb67320024757d8bbf9619ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:40:58</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -194,7 +164,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin2</sys_created_by>
             <sys_created_on>2017-07-10 10:11:28</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d5f6c17613b73a0063deb3776144b098</sys_id>

@@ -6,28 +6,28 @@
         <basic_auth_profile/>
         <basic_auth_user/>
         <content/>
-        <function_name>GET</function_name>
+        <function_name>GET User Tickets</function_name>
         <http_method>get</http_method>
         <lock>false</lock>
         <oauth2_profile/>
         <protocol_name/>
-        <qualified_name>addNewUser [ GET ]</qualified_name>
+        <qualified_name>User ticket messages [ GET User Tickets ]</qualified_name>
         <rest_endpoint>http://10.91.84.16:8080/api/v1/tickets/add_user/</rest_endpoint>
-        <rest_message display_value="addNewUser">ba8e12be133b3a0063deb3776144b0da</rest_message>
+        <rest_message display_value="User ticket messages">ba3ffdf5db50074024757d8bbf96196a</rest_message>
         <sys_class_name>sys_rest_message_fn</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
-        <sys_created_on>2017-07-10 17:25:08</sys_created_on>
+        <sys_created_on>2017-08-01 08:16:39</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>4e1ae6f2137b3a0063deb3776144b0d1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>GET</sys_name>
+        <sys_id>ceaffdf5db50074024757d8bbf961955</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GET User Tickets</sys_name>
         <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
-        <sys_update_name>sys_rest_message_fn_4e1ae6f2137b3a0063deb3776144b0d1</sys_update_name>
+        <sys_update_name>sys_rest_message_fn_ceaffdf5db50074024757d8bbf961955</sys_update_name>
         <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2017-07-11 08:51:01</sys_updated_on>
+        <sys_updated_on>2017-08-01 08:17:31</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mid_server display_value="adas">dd04edb1137fb60063deb3776144b0eb</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>

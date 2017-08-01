@@ -3,48 +3,78 @@
     <sys_ui_list parent="ecc_agent" relationship="" sys_domain="global" table="ecc_agent_log" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_created_on</element>
-            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">11f0d0a5dba7320024757d8bbf9619a4</list_id>
+            <element>ecc_agent</element>
+            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">14b6b6e5db1cc34024757d8bbf961938</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:47:25</sys_created_on>
-            <sys_id>91f0d0a5dba7320024757d8bbf9619a4</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-07-31 17:38:37</sys_created_on>
+            <sys_id>98b6b6e5db1cc34024757d8bbf961938</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:47:25</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>type</element>
-            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">11f0d0a5dba7320024757d8bbf9619a4</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>1</position>
-            <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:47:25</sys_created_on>
-            <sys_id>15f0d0a5dba7320024757d8bbf9619a4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:47:25</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-07-31 17:38:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>log</element>
-            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">11f0d0a5dba7320024757d8bbf9619a4</list_id>
+            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">14b6b6e5db1cc34024757d8bbf961938</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-07-31 17:38:37</sys_created_on>
+            <sys_id>1cb6b6e5db1cc34024757d8bbf961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-07-31 17:38:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_domain</element>
+            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">14b6b6e5db1cc34024757d8bbf961938</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2017-06-23 22:47:25</sys_created_on>
-            <sys_id>95f0d0a5dba7320024757d8bbf9619a4</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-07-31 17:38:37</sys_created_on>
+            <sys_id>9cb6b6e5db1cc34024757d8bbf961938</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2017-06-23 22:47:25</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-07-31 17:38:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>thread</element>
+            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">14b6b6e5db1cc34024757d8bbf961938</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-07-31 17:38:37</sys_created_on>
+            <sys_id>10b6b6e5db1cc34024757d8bbf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-07-31 17:38:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="ecc_agent_log" element="NULL" name="ecc_agent_log" parent="ecc_agent" relationship="NULL" sys_domain="global" view="Default view">14b6b6e5db1cc34024757d8bbf961938</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-07-31 17:38:37</sys_created_on>
+            <sys_id>90b6b6e5db1cc34024757d8bbf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-07-31 17:38:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -59,7 +89,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin2</sys_created_by>
             <sys_created_on>2017-07-12 08:52:57</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7a28cf5f13f77a0063deb3776144b0d4</sys_id>
