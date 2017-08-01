@@ -9,7 +9,7 @@
   "requestedBy": "ServiceNow",&#13;
   "user": {&#13;
     "email": "${email}",&#13;
-    "firstName": "{firstName}",&#13;
+    "firstName": "${firstName}",&#13;
     "information": "Service Now testing",&#13;
     "lastName": "${lastName}",&#13;
     "role": "${role}"&#13;
@@ -28,7 +28,7 @@
         <sys_created_on>2017-08-01 08:27:45</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>73718ab9db50074024757d8bbf9619eb</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>POST User Ticket</sys_name>
         <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
         <sys_policy/>
@@ -36,7 +36,7 @@
         <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
         <sys_update_name>sys_rest_message_fn_73718ab9db50074024757d8bbf9619eb</sys_update_name>
         <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2017-08-01 08:31:34</sys_updated_on>
+        <sys_updated_on>2017-08-01 08:43:41</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mid_server display_value="adas">dd04edb1137fb60063deb3776144b0eb</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>

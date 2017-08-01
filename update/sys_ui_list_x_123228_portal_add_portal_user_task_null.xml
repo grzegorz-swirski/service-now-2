@@ -163,11 +163,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-07-10 10:11:28</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2017-08-01 07:17:50</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d5f6c17613b73a0063deb3776144b098</sys_id>
+            <sys_id>a03231f1db50074024757d8bbf9619de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_123228_portal_add_portal_user_task</sys_name>
             <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
@@ -176,8 +176,8 @@
             <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
             <sys_update_name>sys_ui_list_x_123228_portal_add_portal_user_task_null</sys_update_name>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-07-10 10:11:28</sys_updated_on>
-            <sys_user display_value="System administrator2">9a64b69bdb23f20024757d8bbf961921</sys_user>
+            <sys_updated_on>2017-08-01 07:17:50</sys_updated_on>
+            <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>
