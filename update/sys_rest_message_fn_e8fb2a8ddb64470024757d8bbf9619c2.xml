@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{&#13;
+	"labelSpecificationId": ${labelSpecificationId}, &#13;
+	"labelSpecificationDomain": "default",&#13;
+	"outputLabel": "http://example/label_output.json",&#13;
+	"outputQuality": "http://example/label_quality_output.json",&#13;
+	"instructions": "Use track forward, ...",&#13;
+	"additionalNotes": "Additional notes",&#13;
+	"deadline": "2017-05-20T12:33:31Z",&#13;
+	"name": "Traffic light RC1",&#13;
+	"description": "TL label",&#13;
+	"numberOfCrossChecks": 3,&#13;
+	"qualityThresholds": {&#13;
+		"consistencyThreshold": 90,&#13;
+		"timingThreshold": 61&#13;
+        }&#13;
+}</content>
+        <function_name>POST Labeling Request</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Labeling Request REST Messages [ POST Labeling Request ]</qualified_name>
+        <rest_endpoint>http://10.91.84.26:7979/api/v1/requests</rest_endpoint>
+        <rest_message display_value="Labeling Request REST Messages">a4f0de4113a44b4063deb3776144b012</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2017-08-11 14:00:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e8fb2a8ddb64470024757d8bbf9619c2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>POST Labeling Request</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_e8fb2a8ddb64470024757d8bbf9619c2</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2017-08-14 07:54:35</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server display_value="adas">f595aab7db14c30024757d8bbf961950</use_mid_server>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

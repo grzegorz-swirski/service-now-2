@@ -12,12 +12,12 @@
             <relationship display_value="Table Columns">4344f6f5bf1320001875647fcf0739ad</relationship>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-18 09:39:22</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2017-08-10 10:11:34</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>195c8ed1db480300d10ff11fbf9619a2</sys_id>
+            <sys_id>4d40bc7c132c0b4063deb3776144b080</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_dictionary</sys_name>
             <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
@@ -25,9 +25,9 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
             <sys_update_name>sys_ui_list_sys_db_object_4344f6f5bf1320001875647fcf0739ad_null</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-18 09:39:22</sys_updated_on>
-            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2017-08-10 10:11:34</sys_updated_on>
+            <sys_user display_value="System administrator2">9a64b69bdb23f20024757d8bbf961921</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

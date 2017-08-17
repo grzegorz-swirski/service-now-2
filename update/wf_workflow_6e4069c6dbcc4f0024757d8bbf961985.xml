@@ -2,7 +2,7 @@
 <record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
-        <activity_stages>{"ends":["ff0b75e9db98c34024757d8bbf9619e5"],"subflows":[],"stages":{},"activities":{}}</activity_stages>
+        <activity_stages>{"activities":{},"ends":["ff0b75e9db98c34024757d8bbf9619e5"],"subflows":[],"stages":{}}</activity_stages>
         <after_business_rules>false</after_business_rules>
         <checked_out/>
         <checked_out_by/>
@@ -32,12 +32,12 @@
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-07-31 13:18:04</sys_created_on>
         <sys_id>370b3d69db98c34024757d8bbf96191d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2017-07-31 13:22:22</sys_updated_on>
+        <sys_updated_on>2017-08-11 12:09:49</sys_updated_on>
         <table>x_123228_portal_security_code_entry</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Reset password">6e4069c6dbcc4f0024757d8bbf961985</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
@@ -48,7 +48,7 @@
         <sys_class_name>wf_workflow</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-07-20 14:22:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6e4069c6dbcc4f0024757d8bbf961985</sys_id>

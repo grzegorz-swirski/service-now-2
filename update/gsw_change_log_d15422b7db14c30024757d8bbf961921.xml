@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2017-08-07 16:04:44</change_date>
+        <changed_by display_value="System administrator2">9a64b69bdb23f20024757d8bbf961921</changed_by>
+        <content display_value="Validate MID">d2d157dac39312007bf1bea192d3aea6</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2017-08-07 16:04:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d15422b7db14c30024757d8bbf961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2017-08-07 16:04:44</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>gsw_change_log_d15422b7db14c30024757d8bbf961921</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2017-08-07 16:04:44</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>
