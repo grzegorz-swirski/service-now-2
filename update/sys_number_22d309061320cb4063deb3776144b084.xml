@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-08-14 08:49:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>22d309061320cb4063deb3776144b084</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>LAB</sys_name>

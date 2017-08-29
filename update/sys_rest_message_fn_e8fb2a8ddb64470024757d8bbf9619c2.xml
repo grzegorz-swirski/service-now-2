@@ -32,7 +32,7 @@
         <sys_class_name>sys_rest_message_fn</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-08-11 14:00:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e8fb2a8ddb64470024757d8bbf9619c2</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>POST Labeling Request</sys_name>
