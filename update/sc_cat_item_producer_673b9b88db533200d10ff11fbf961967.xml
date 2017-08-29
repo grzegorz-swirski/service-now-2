@@ -39,7 +39,7 @@
         <price>0</price>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
-        <roles/>
+        <roles>snc_internal</roles>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
@@ -52,15 +52,15 @@
         <sys_created_on>2017-06-07 11:27:11</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>673b9b88db533200d10ff11fbf961967</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Add Portal User</sys_name>
         <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
         <sys_update_name>sc_cat_item_producer_673b9b88db533200d10ff11fbf961967</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-07 15:21:47</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-29 17:14:38</sys_updated_on>
         <table_name>x_123228_portal_add_portal_user_request</table_name>
         <template/>
         <type>item</type>
