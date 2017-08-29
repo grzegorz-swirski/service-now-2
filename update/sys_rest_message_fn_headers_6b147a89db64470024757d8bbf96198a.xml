@@ -6,7 +6,7 @@
         <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-08-11 14:26:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6b147a89db64470024757d8bbf96198a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Content-Type</sys_name>
