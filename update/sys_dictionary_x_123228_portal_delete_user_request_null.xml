@@ -53,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 13:02:30</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c8fdce321338c38063deb3776144b00a</sys_id>
+        <sys_id>30fbd39fdbc98700bc387d8bbf961983</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_123228_portal_delete_user_request</sys_name>
         <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
         <sys_update_name>sys_dictionary_x_123228_portal_delete_user_request_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-08-29 08:24:34</sys_updated_on>
+        <sys_updated_on>2017-09-12 13:38:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

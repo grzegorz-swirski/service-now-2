@@ -44,7 +44,7 @@
         <sys_updated_by>admin2</sys_updated_by>
         <sys_updated_on>2017-08-14 07:54:35</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
-        <use_mid_server display_value="adas">f595aab7db14c30024757d8bbf961950</use_mid_server>
+        <use_mid_server display_value="">f595aab7db14c30024757d8bbf961950</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message_fn>
 </record_update>

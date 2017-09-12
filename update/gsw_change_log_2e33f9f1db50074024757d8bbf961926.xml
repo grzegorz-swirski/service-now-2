@@ -2,14 +2,14 @@
 <record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2017-08-01 07:22:20</change_date>
-        <changed_by display_value="System administrator2">9a64b69bdb23f20024757d8bbf961921</changed_by>
+        <changed_by display_value="System Administrator2">5736fe5fdbefb200bc387d8bbf961973</changed_by>
         <content display_value="Create MID User">a477d47ac35312007bf1bea192d3ae52</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-08-01 07:22:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2e33f9f1db50074024757d8bbf961926</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>2017-08-01 07:22:20</sys_name>
