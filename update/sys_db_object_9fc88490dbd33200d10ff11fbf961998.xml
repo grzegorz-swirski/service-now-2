@@ -17,7 +17,7 @@
         <number_ref display_value="CHA">f5590cd0dbd33200d10ff11fbf961944</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Request" name="sc_request">55a4c825db633200bc387d8bbf96192d</super_class>
+        <super_class display_value="Request" name="sc_request">f193c825db63320024757d8bbf96196f</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 14:45:59</sys_created_on>

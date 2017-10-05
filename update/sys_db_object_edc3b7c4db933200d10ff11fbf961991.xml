@@ -17,7 +17,7 @@
         <number_ref display_value="DELTASK">23848c10dbd33200d10ff11fbf961962</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">1192c0a5db233200bc387d8bbf9619c9</super_class>
+        <super_class display_value="Task" name="task">3d51c0a5db23320024757d8bbf9619cc</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 13:13:38</sys_created_on>

@@ -17,7 +17,7 @@
         <number_ref display_value="LAB">22d309061320cb4063deb3776144b084</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Request" name="sc_request">55a4c825db633200bc387d8bbf96192d</super_class>
+        <super_class display_value="Request" name="sc_request">f193c825db63320024757d8bbf96196f</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-08-10 09:46:32</sys_created_on>
