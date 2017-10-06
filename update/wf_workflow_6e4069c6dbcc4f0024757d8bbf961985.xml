@@ -32,12 +32,12 @@
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-10-05 13:43:32</sys_created_on>
         <sys_id>c8d9b5be1321074063deb3776144b070</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2017-10-05 13:44:42</sys_updated_on>
+        <sys_updated_on>2017-10-05 21:59:43</sys_updated_on>
         <table>x_123228_portal_security_code_entry</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Reset password">6e4069c6dbcc4f0024757d8bbf961985</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">

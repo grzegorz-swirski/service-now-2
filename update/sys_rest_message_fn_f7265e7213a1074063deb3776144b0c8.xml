@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{&#13;
+  "approved": true&#13;
+}</content>
+        <function_name>POST</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Approve ticket [ POST ]</qualified_name>
+        <rest_endpoint>http://10.91.85.130:8156/api/v1/tickets/add_user/${ticketId}/approval</rest_endpoint>
+        <rest_message display_value="Approve ticket">b316d6ba1361074063deb3776144b047</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2017-10-05 15:47:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f7265e7213a1074063deb3776144b0c8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>POST</sys_name>
+        <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_f7265e7213a1074063deb3776144b0c8</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2017-10-05 15:48:59</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server display_value="adas">f595aab7db14c30024757d8bbf961950</use_mid_server>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
