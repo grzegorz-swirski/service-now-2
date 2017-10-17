@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sc_request" label="Labeling Request" max_length="40" name="x_123228_portal_labeling_request" type="collection">
+    <element extends="sc_request" label="Labeling Request" max_length="40" name="x_123228_portal_labeling_request" sizeclass="22" type="collection">
         <element label="ID" max_length="100" name="id" type="string"/>
     </element>
 </database>
