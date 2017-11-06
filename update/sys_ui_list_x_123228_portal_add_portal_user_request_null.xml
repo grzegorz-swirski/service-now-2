@@ -4,152 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>9bf7a5dddbb94b4024757d8bbf9619af</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>8ba8ce73dbcac30024757d8bbf961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>active</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>13f7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>83a8ce73dbcac30024757d8bbf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>activity_due</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>93f7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>07a8ce73dbcac30024757d8bbf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>additional_assignee_list</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>17f7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>87a8ce73dbcac30024757d8bbf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>approval</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>97f7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>0ba8ce73dbcac30024757d8bbf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>approval_history</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>1bf7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>8ba8ce73dbcac30024757d8bbf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>approval_set</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>9bf7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>0fa8ce73dbcac30024757d8bbf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>1ff7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>8fa8ce73dbcac30024757d8bbf961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assignment_group</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>9ff7a5dddbb94b4024757d8bbf9619b0</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>03a8ce73dbcac30024757d8bbf961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>business_duration</element>
-            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">13f7a5dddbb94b4024757d8bbf9619af</list_id>
+            <list_id display_value="x_123228_portal_add_portal_user_request" element="NULL" name="x_123228_portal_add_portal_user_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4fa8ce73dbcac30024757d8bbf961991</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>admin2</sys_created_by>
-            <sys_created_on>2017-10-13 06:50:27</sys_created_on>
-            <sys_id>13f7a5dddbb94b4024757d8bbf9619b1</sys_id>
+            <sys_created_on>2017-11-02 13:53:46</sys_created_on>
+            <sys_id>83a8ce73dbcac30024757d8bbf961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin2</sys_updated_by>
-            <sys_updated_on>2017-10-13 06:50:27</sys_updated_on>
+            <sys_updated_on>2017-11-02 13:53:46</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -164,7 +164,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin2</sys_created_by>
             <sys_created_on>2017-10-16 13:57:44</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5786eeda13f1cb4063deb3776144b0db</sys_id>
