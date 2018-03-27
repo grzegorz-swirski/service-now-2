@@ -2004,6 +2004,254 @@ function addUser() {&#13;
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Notification">0a6c97790a0a0b2756919eb960284334</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>25</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>User registration notification</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>a726030adb8d134024757d8bbf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Add Portal User Workflow">024f6490db415f0024757d8bbf961907</workflow_version>
+        <x>1069</x>
+        <y>692</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=a726030adb8d134024757d8bbf9619ed"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>2b26030adb8d134024757d8bbf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>The user registration is complete and your account was created.&#13;
+&#13;
+Login: ${workflow.scratchpad.login}&#13;
+First Name: ${first_name}&#13;
+Last Name: ${last_name}&#13;
+Email: ${email}&#13;
+Role: ${role}&#13;
+&#13;
+Activation link: http://10.91.84.26/login?id=${sys_id}&amp;login=${workflow.scratchpad.login}</value>
+        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>6b26030adb8d134024757d8bbf9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>6f26030adb8d134024757d8bbf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value/>
+        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>af26030adb8d134024757d8bbf9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
+answer = [current.email, current.requestedBy];&#13;
+gs.info("Registration acceptance email was send to User first_name={0}, last_name={1}, role={2}, email={3}",&#13;
+        current.first_name, &#13;
+        current.last_name, &#13;
+        current.role, &#13;
+        current.email);&#13;
+</value>
+        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>e326030adb8d134024757d8bbf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>User registration notification</value>
+        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>ef26030adb8d134024757d8bbf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value/>
+        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>ef26030adb8d134024757d8bbf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value/>
+        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>6f26030adb8d134024757d8bbf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value/>
+        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>e326030adb8d134024757d8bbf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>User registration notification</value>
+        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>2b26030adb8d134024757d8bbf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>The user registration is complete and your account was created.&#13;
+&#13;
+Login: ${workflow.scratchpad.login}&#13;
+First Name: ${first_name}&#13;
+Last Name: ${last_name}&#13;
+Email: ${email}&#13;
+Role: ${role}&#13;
+&#13;
+Activation link: http://10.91.84.26/login?id=${sys_id}&amp;login=${workflow.scratchpad.login}</value>
+        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>6b26030adb8d134024757d8bbf9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>a726030adb8d134024757d8bbf9619ed</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>af26030adb8d134024757d8bbf9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+        <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.&#13;
+answer = [current.email, current.requestedBy];&#13;
+gs.info("Registration acceptance email was send to User first_name={0}, last_name={1}, role={2}, email={3}",&#13;
+        current.first_name, &#13;
+        current.last_name, &#13;
+        current.role, &#13;
+        current.email);&#13;
+</value>
+        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="User registration notification">a726030adb8d134024757d8bbf9619ed</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-03-26 11:01:29</sys_created_on>
+        <sys_id>eb26c70adb8d134024757d8bbf9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-03-26 11:01:29</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Notification">0a6c97790a0a0b2756919eb960284334</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>8</databus_lookup_id>
         <height/>
         <input>{}</input>
