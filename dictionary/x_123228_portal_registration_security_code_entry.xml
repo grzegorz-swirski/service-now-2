@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element max_length="40" name="x_123228_portal_registration_security_code_entry" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="120" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Security Code" mandatory="true" max_length="36" name="security_code" type="string"/>
+    </element>
+</database>
