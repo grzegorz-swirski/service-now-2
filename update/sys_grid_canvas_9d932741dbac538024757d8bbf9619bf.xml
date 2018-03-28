@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_grid_canvas" unload_date="2018-03-27 14:01:45">
+<record_update node_type="sys_grid_canvas" unload_date="2018-03-28 10:51:41">
     <sys_grid_canvas action="INSERT_OR_UPDATE">
         <legacy_page display_value="PA Usage by Web API">422437929f811200ef4afa7dc67fcfe7</legacy_page>
         <name>PA Usage by Web API</name>
         <sys_class_name>sys_grid_canvas</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9d932741dbac538024757d8bbf9619bf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>PA Usage by Web API</sys_name>
@@ -27,7 +27,7 @@
                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                 <sys_created_by>admin2</sys_created_by>
                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                <sys_customer_update>true</sys_customer_update>
+                <sys_customer_update>false</sys_customer_update>
                 <sys_id>99932741dbac538024757d8bbf9619c2</sys_id>
                 <sys_mod_count>0</sys_mod_count>
                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>
@@ -61,7 +61,7 @@
                                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                                 <sys_created_by>admin2</sys_created_by>
                                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                                <sys_customer_update>true</sys_customer_update>
+                                <sys_customer_update>false</sys_customer_update>
                                 <sys_id>99932741dbac538024757d8bbf9619c2</sys_id>
                                 <sys_mod_count>0</sys_mod_count>
                                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>
@@ -233,7 +233,7 @@
                                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                                 <sys_created_by>admin2</sys_created_by>
                                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                                <sys_customer_update>true</sys_customer_update>
+                                <sys_customer_update>false</sys_customer_update>
                                 <sys_id>d1932741dbac538024757d8bbf9619c6</sys_id>
                                 <sys_mod_count>1</sys_mod_count>
                                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>
@@ -416,7 +416,7 @@
                                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                                 <sys_created_by>admin2</sys_created_by>
                                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                                <sys_customer_update>true</sys_customer_update>
+                                <sys_customer_update>false</sys_customer_update>
                                 <sys_id>d9932741dbac538024757d8bbf9619c4</sys_id>
                                 <sys_mod_count>1</sys_mod_count>
                                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>
@@ -599,7 +599,7 @@
                                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                                 <sys_created_by>admin2</sys_created_by>
                                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                                <sys_customer_update>true</sys_customer_update>
+                                <sys_customer_update>false</sys_customer_update>
                                 <sys_id>d9932741dbac538024757d8bbf9619c7</sys_id>
                                 <sys_mod_count>1</sys_mod_count>
                                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>
@@ -770,7 +770,7 @@
                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                 <sys_created_by>admin2</sys_created_by>
                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                <sys_customer_update>true</sys_customer_update>
+                <sys_customer_update>false</sys_customer_update>
                 <sys_id>d1932741dbac538024757d8bbf9619c6</sys_id>
                 <sys_mod_count>1</sys_mod_count>
                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>
@@ -792,7 +792,7 @@
                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                 <sys_created_by>admin2</sys_created_by>
                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                <sys_customer_update>true</sys_customer_update>
+                <sys_customer_update>false</sys_customer_update>
                 <sys_id>d9932741dbac538024757d8bbf9619c4</sys_id>
                 <sys_mod_count>1</sys_mod_count>
                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>
@@ -814,7 +814,7 @@
                 <sys_class_name>sys_grid_canvas_pane</sys_class_name>
                 <sys_created_by>admin2</sys_created_by>
                 <sys_created_on>2018-02-26 14:04:39</sys_created_on>
-                <sys_customer_update>true</sys_customer_update>
+                <sys_customer_update>false</sys_customer_update>
                 <sys_id>d9932741dbac538024757d8bbf9619c7</sys_id>
                 <sys_mod_count>1</sys_mod_count>
                 <sys_name>9d932741dbac538024757d8bbf9619bf</sys_name>

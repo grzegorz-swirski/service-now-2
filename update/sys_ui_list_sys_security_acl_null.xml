@@ -4,92 +4,137 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a2142abb0a0006412039233d9df47c31</list_id>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 16:25:21</sys_created_on>
-            <sys_id>a2142afc0a0006415d0ff2564d060a08</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>5c26d972db05934024757d8bbf961922</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 16:25:21</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>operation</element>
-            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a2142abb0a0006412039233d9df47c31</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>1</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 16:25:21</sys_created_on>
-            <sys_id>a2142afd0a0006415b21b31e41020e93</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 16:25:21</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>type</element>
-            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a2142abb0a0006412039233d9df47c31</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 16:25:21</sys_created_on>
-            <sys_id>a2142afd0a00064173370802e7de6e23</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 16:25:21</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>active</element>
-            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a2142abb0a0006412039233d9df47c31</list_id>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>5426d972db05934024757d8bbf961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>admin_overrides</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>d426d972db05934024757d8bbf961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>advanced</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 16:25:21</sys_created_on>
-            <sys_id>a2142aff0a0006417383bbf6f8ddf740</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>5826d972db05934024757d8bbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 16:25:21</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_by</element>
-            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a2142abb0a0006412039233d9df47c31</list_id>
+            <element>condition</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 16:25:21</sys_created_on>
-            <sys_id>a2142b000a00064161162ad23f037a9c</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>d826d972db05934024757d8bbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 16:25:21</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_on</element>
-            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a2142abb0a0006412039233d9df47c31</list_id>
+            <element>description</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 16:25:21</sys_created_on>
-            <sys_id>a2142b000a000641560954eb50cc2d5d</sys_id>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>5c26d972db05934024757d8bbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 16:25:21</sys_updated_on>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>operation</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>dc26d972db05934024757d8bbf961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>script</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>5026d972db05934024757d8bbf961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9426d972db05934024757d8bbf961921</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2018-03-28 10:47:23</sys_created_on>
+            <sys_id>d026d972db05934024757d8bbf961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2018-03-28 10:47:23</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -104,7 +149,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin2</sys_created_by>
             <sys_created_on>2018-03-27 13:02:45</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>198b68eadb49534024757d8bbf9619a1</sys_id>
