@@ -10,13 +10,13 @@
         <name>Add user</name>
         <oauth2_profile/>
         <protocol_name/>
-        <rest_endpoint>http://10.91.84.26:8156/api/v1/users/${tokenId}/add_user</rest_endpoint>
+        <rest_endpoint>http://10.91.84.26:8156/api/v1/users</rest_endpoint>
         <sys_class_name>sys_rest_message</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2017-10-09 13:24:31</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>cbcbd64cdb75c74024757d8bbf961938</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Add user</sys_name>
         <sys_package display_value="Portal" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
         <sys_policy/>
@@ -24,7 +24,7 @@
         <sys_scope display_value="Portal">9b189708db533200d10ff11fbf9619d2</sys_scope>
         <sys_update_name>sys_rest_message_cbcbd64cdb75c74024757d8bbf961938</sys_update_name>
         <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2018-03-02 09:12:58</sys_updated_on>
+        <sys_updated_on>2018-03-28 12:14:22</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message>
