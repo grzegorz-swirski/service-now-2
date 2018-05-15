@@ -37,7 +37,7 @@
         <sys_created_on>2017-10-09 13:24:31</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>78db5648db75c74024757d8bbf961991</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>POST</sys_name>
         <sys_package display_value="IGK-INT" source="x_123228_portal">9b189708db533200d10ff11fbf9619d2</sys_package>
         <sys_policy/>
@@ -45,9 +45,9 @@
         <sys_scope display_value="IGK-INT">9b189708db533200d10ff11fbf9619d2</sys_scope>
         <sys_update_name>sys_rest_message_fn_78db5648db75c74024757d8bbf961991</sys_update_name>
         <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2018-04-06 13:15:53</sys_updated_on>
+        <sys_updated_on>2018-05-15 07:56:16</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
-        <use_mid_server display_value="igk-dev">e14b32f91390d74063deb3776144b0ab</use_mid_server>
+        <use_mid_server display_value="igk-int">5913c886db46530024757d8bbf961917</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message_fn>
 </record_update>

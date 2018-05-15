@@ -32,12 +32,12 @@
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2018-04-06 13:16:18</sys_created_on>
         <sys_id>2d8e8079db551b4024757d8bbf9619d3</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2018-04-06 13:19:05</sys_updated_on>
+        <sys_updated_on>2018-05-15 07:55:15</sys_updated_on>
         <table>x_123228_portal_add_portal_user_request</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Add Portal User Workflow">0e8f930cdb533200d10ff11fbf96199a</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
@@ -3166,20 +3166,6 @@ answer = 0;</value>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2018-04-06 13:16:19</sys_created_on>
-        <sys_id>ad8e4c79db551b4024757d8bbf9619f0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
-        <value/>
-        <variable display_value="">21fd462c0a0a0b211c997276d7806c03</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>658e4c79db551b4024757d8bbf9619ee</document_key>
-        <order>1310</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin2</sys_created_by>
-        <sys_created_on>2018-04-06 13:16:19</sys_created_on>
         <sys_id>698e4c79db551b4024757d8bbf9619f0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin2</sys_updated_by>
@@ -3190,16 +3176,16 @@ answer = 0;</value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
         <document_key>658e4c79db551b4024757d8bbf9619ee</document_key>
-        <order>1320</order>
+        <order>1310</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2018-04-06 13:16:19</sys_created_on>
-        <sys_id>a18e4c79db551b4024757d8bbf9619f2</sys_id>
+        <sys_id>ad8e4c79db551b4024757d8bbf9619f0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin2</sys_updated_by>
         <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
         <value/>
-        <variable display_value="">4cc6788c0a0a0b5200e6743c94001b16</variable>
+        <variable display_value="">21fd462c0a0a0b211c997276d7806c03</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3218,16 +3204,16 @@ answer = 0;</value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
         <document_key>658e4c79db551b4024757d8bbf9619ee</document_key>
-        <order>1350</order>
+        <order>1320</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin2</sys_created_by>
         <sys_created_on>2018-04-06 13:16:19</sys_created_on>
-        <sys_id>658e4c79db551b4024757d8bbf9619ef</sys_id>
+        <sys_id>a18e4c79db551b4024757d8bbf9619f2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin2</sys_updated_by>
         <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
         <value/>
-        <variable display_value="">4cc836da0a0a0b520083ebc07da2f47c</variable>
+        <variable display_value="">4cc6788c0a0a0b5200e6743c94001b16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3242,6 +3228,34 @@ answer = 0;</value>
         <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
         <value/>
         <variable display_value="">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>658e4c79db551b4024757d8bbf9619ee</document_key>
+        <order>1350</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-04-06 13:16:19</sys_created_on>
+        <sys_id>658e4c79db551b4024757d8bbf9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
+        <value/>
+        <variable display_value="">4cc836da0a0a0b520083ebc07da2f47c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>658e4c79db551b4024757d8bbf9619ee</document_key>
+        <order>1360</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2018-04-06 13:16:19</sys_created_on>
+        <sys_id>298e4c79db551b4024757d8bbf9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
+        <value/>
+        <variable display_value="">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3270,20 +3284,6 @@ answer = 0;</value>
         <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
         <value/>
         <variable display_value="">292c91070a0a0b212543d91ffde5014c</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>wf_activity</document>
-        <document_key>658e4c79db551b4024757d8bbf9619ee</document_key>
-        <order>1360</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin2</sys_created_by>
-        <sys_created_on>2018-04-06 13:16:19</sys_created_on>
-        <sys_id>298e4c79db551b4024757d8bbf9619f1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin2</sys_updated_by>
-        <sys_updated_on>2018-04-06 13:16:19</sys_updated_on>
-        <value/>
-        <variable display_value="">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>

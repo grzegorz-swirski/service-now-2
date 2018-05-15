@@ -6,6 +6,6 @@
         <element label="Last Name" max_length="40" name="last_name" type="string"/>
         <element label="Requested by" max_length="100" name="requested_by" type="string"/>
         <element label="Role" max_length="100" name="role" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Role" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Role" max_length="100" name="u_string_1" type="string"/>
     </element>
 </database>
